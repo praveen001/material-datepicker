@@ -5,6 +5,7 @@ Datepicker for material ui 2
 npm install --save react-material-datepicker
 
 ## Usage
+```
 <Datepicker 
   defaultValue={ this.state.startDate }
   endDate={ this.state.endDate }
@@ -13,6 +14,7 @@ npm install --save react-material-datepicker
   maxDate={ new Date('12-12-2017') }
   minDate={ new Date( '12-10-2017') }
 /> 
+```
 
 ## Getting selected date
 onDateChange(startDate, endDate) {
