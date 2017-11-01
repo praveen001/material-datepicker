@@ -2,7 +2,9 @@
 Datepicker for material ui 2
 
 ## Install
+```
 npm install --save react-material-datepicker
+```
 
 ## Usage
 ```
@@ -17,7 +19,9 @@ npm install --save react-material-datepicker
 ```
 
 ## Getting selected date
+```
 onDateChange(startDate, endDate) {
   // endDate will be undefined if 'range=false'
   console.log(startDate, endDate); 
 }
+```
