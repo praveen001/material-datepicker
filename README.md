@@ -3,7 +3,7 @@ Datepicker for material ui 2
 
 ## Install
 ```
-npm install --save react-material-datepicker
+npm install --save react-material-datepicker moment
 ```
 
 ## Usage
