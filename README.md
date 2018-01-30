@@ -1,6 +1,9 @@
 # material-datepicker
 Datepicker for material ui 2
 
+## Code walkthrough/Breakdown
+https://www.npmjs.com/package/react-material-datepicker
+
 ## Install
 ```
 npm install --save react-material-datepicker moment
