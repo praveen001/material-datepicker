@@ -1,6 +1,6 @@
 {
   "name": "react-material-datepicker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "datepicker for material ui 2",
   "main": "index.js",
   "scripts": {
