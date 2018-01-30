@@ -2,7 +2,7 @@
 Datepicker for material ui 2
 
 ## Code walkthrough/Breakdown
-https://www.npmjs.com/package/react-material-datepicker
+https://sourceclone.com/creating-a-calendar-component-in-react
 
 ## Install
 ```
